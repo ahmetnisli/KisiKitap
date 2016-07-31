@@ -194,8 +194,8 @@ namespace KisiKitap
             Kisi kisi = cmbKisiler.SelectedItem as Kisi;
             // Eposta gönderme yetki ayarları..
             NetworkCredential kimlik = new NetworkCredential();
-            kimlik.UserName = "ahmetnisli05@gmail.com";
-            kimlik.Password = "mdxf4715";
+            kimlik.UserName = "Mail";
+            kimlik.Password = "Sifre";
 
             // Eposta sunucusu ayarları..
             SmtpClient client = new SmtpClient();
