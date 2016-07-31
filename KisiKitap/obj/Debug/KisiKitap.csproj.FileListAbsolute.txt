@@ -1,0 +1,10 @@
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\bin\Debug\KisiKitap.exe.config
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\bin\Debug\KisiKitap.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\bin\Debug\KisiKitap.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\obj\Debug\KisiKitap.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\obj\Debug\KisiKitap.Form1.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\obj\Debug\KisiKitap.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\obj\Debug\KisiKitap.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\obj\Debug\KisiKitap.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\obj\Debug\KisiKitap.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\KisiKitap\KisiKitap\bin\Debug\AdoNetHelper.dll
