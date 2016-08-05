@@ -34,7 +34,7 @@ namespace KisiKitap
         {
             cmbKisiler.Items.Clear();
             AdoNetHelper.Database ado = new AdoNetHelper.Database(connectionString);
-            DataTable dt= ado.getData("Select * from Kisiler",new List<SqlParameter>());
+            DataTable dt= ado.GetTable("Select * from Kisiler",new List<SqlParameter>());
             foreach(DataRow item in dt.Rows)
             {
                 Kisi kisi = new Kisi();
@@ -102,7 +102,7 @@ namespace KisiKitap
             string query = "Select * from Kitaplar where KisiID=@id ";
             List<SqlParameter> lst = new List<SqlParameter>();
             lst.Add(new SqlParameter("@id", index));
-            DataTable dt= ado.getData(query, lst);
+            DataTable dt= ado.GetTable(query, lst);
             foreach(DataRow item in dt.Rows)
             {
                 Kitap ktp = new Kitap();
